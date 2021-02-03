@@ -14,6 +14,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-    SubA().test1("xq", 18)
+    SubA().test2("xq", 18, 175)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
